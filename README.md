@@ -422,10 +422,10 @@ SOFTWARE.
 
 ## 👨‍💻 Autor
 
-**[Tu Nombre]**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu.email@ejemplo.com
+**[Oriana Galíndez]**
+- GitHub: [@malibu54](https://github.com/malibu54)
+- LinkedIn: [orianasoledad](https://linkedin.com/in/orianasoledad)
+
 
 ## 🙏 Agradecimientos
 
